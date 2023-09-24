@@ -1,4 +1,4 @@
-### Hello, I'm neksio 👋
+## Hello, I'm neksio 👋
 
 I'm a 14 year old kid, that wants to learn conding.
 
