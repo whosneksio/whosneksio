@@ -4,7 +4,7 @@ I'm a 14 year old kid, that wants to learn conding.
 
 ## 🔭 Current
 
-I'm currently working on [personal site](https://wounds.rip/) and I'm learning java to code Minecraft plug-ins. Studying IT in [Technikum Łącznosći](https://zsl.gda.pl/) in Gdańsk
+I'm currently working on [personal site](https://wounds.rip/) and I'm learning java to code Minecraft plug-ins. Studying IT in [Technikum Łącznosći](https://www.zsl.gda.pl/) in Gdańsk
 
 ## ⚡️ Experience
 
