@@ -1,6 +1,6 @@
 ## Hello, I'm neksio 👋
 
-I'm a 14 year old kid, that wants to learn conding.
+I'm a 14 yearl old tech enthusiast from Poland, deeply in in programming and general tech. Studying in Technikum Łączności in Gdańsk. In my free time, I enjoy playing games and learning new skills.
 
 ## 🔭 Current
 
