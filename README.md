@@ -8,7 +8,7 @@ I'm currently working on [personal site](https://wounds.rip/) and I'm learning [
 
 ## ⚡️ Experience
 
-I think that I'm an intermediate developer i code frontend in HTML and CSS for over 3 years. I prefer coding backend though in [Python](https://www.python.org/) and i do that for 2 years. I also can code desktop applications in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) and learning to code in Java.
+I think that I'm an intermediate developer i code frontend in HTML and CSS for over 3 years. I prefer coding backend though in [Python](https://www.python.org/) and i do that for 2 years. I formerly coded in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) and learning to code in Java.
 
 ## 📫 Contact
 
