@@ -12,4 +12,4 @@ I'm an intermediate developer i code frontend in HTML and CSS for over 3 years. 
 
 ## 📫 Contact
 
-To contact me quickly and easily, [write me a PM on Telegram](https://t.me/whosneksio).
+To contact me quickly and easily, write me a PM on [Telegram](https://t.me/whosneksio).
