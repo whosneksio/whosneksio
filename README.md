@@ -4,5 +4,3 @@ Currently working on [wuwa.api](https://koyio.rest) ⎯ an unofficial Wuthering 
 
 [![wakatime](https://wakatime.com/badge/user/d91eae13-13e3-44a6-94f8-9d3719990e17.svg?style=for-the-badge)](https://wakatime.com/@d91eae13-13e3-44a6-94f8-9d3719990e17)
 
-[![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whosneksio&layout=compact)]()
-
