@@ -1,4 +1,4 @@
-Studying IT, using web langs & python learning Go, Rust and React.
+Studying IT, using web langs & python learning Go, Rust and React, 15 years old.
 
 Currently working on [wuwa.api](https://koyio.rest) ⎯ an unofficial Wuthering Waves API and [wuwa.fps](https://github.com/whosneksio/wuwa.fps)  ⎯ FPS unlocker for Wuthering Waves.
 
