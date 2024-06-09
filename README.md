@@ -6,3 +6,7 @@ Currently working on [resonance.rest](https://api.resonance.rest/) ⎯ an unoffi
 
 [![image](https://files.catbox.moe/xs25pc.png)](https://resonance.rest/)
 
+[![image](https://files.catbox.moe/rzydvd.png)](https://t.me/wutheringwavesleaksnews)
+
+
+
